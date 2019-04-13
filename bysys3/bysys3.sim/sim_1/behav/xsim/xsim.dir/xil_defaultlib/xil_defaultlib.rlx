@@ -1,0 +1,10 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+D:/Desktop/fpga/bysys3/bysys3.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+D:/Desktop/fpga/bysys3/bysys3.srcs/sim_1/new/main_top_sim.v,1555139617,verilog,,,,main_top_sim,,,,,,,,
+D:/Desktop/fpga/bysys3/bysys3.srcs/sources_1/new/decoder38_syn.v,1555123780,verilog,,D:/Desktop/fpga/bysys3/bysys3.srcs/sources_1/new/led.v,,decoder38_syn,,,,,,,,
+D:/Desktop/fpga/bysys3/bysys3.srcs/sources_1/new/led.v,1555122875,verilog,,D:/Desktop/fpga/bysys3/bysys3.srcs/sources_1/new/main_top.v,,led,,,,,,,,
+D:/Desktop/fpga/bysys3/bysys3.srcs/sources_1/new/main_top.v,1555123770,verilog,,D:/Desktop/fpga/bysys3/bysys3.srcs/sim_1/new/main_top_sim.v,,main_top,,,,,,,,
+D:/Desktop/fpga/bysys3/bysys3.srcs/sources_1/new/my_ram.v,1555139983,verilog,,D:/Desktop/fpga/bysys3/bysys3.srcs/sim_1/new/main_top_sim.v,,my_ram,,,,,,,,
